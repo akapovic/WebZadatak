@@ -1,2 +1,0 @@
-# WebZadatak
-Oglas za posao
